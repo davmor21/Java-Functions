@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class JavaAnagrams {  // typical objecct oriented anagram solution 
+public class JavaAnagrams {  // typical object oriented anagram solution 
 
 	static boolean isAnagram(String a, String b) {
 		if (a.length() != b.length()) {
